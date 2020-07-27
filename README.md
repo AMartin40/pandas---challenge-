@@ -29,6 +29,29 @@ Like many others in its genre, the game is free-to-play, but players are encoura
 
 # Player Count 
 
+![Player count](https://user-images.githubusercontent.com/60369894/88494162-b35aec80-cf82-11ea-89e7-597219c4b7a2.PNG)
+
+# Purchase Analysis Total 
+
+![Player count](https://user-images.githubusercontent.com/60369894/88494162-b35aec80-cf82-11ea-89e7-597219c4b7a2.PNG)
+
+# Gender Demographics 
+
+
+# Purchase Analysis (Gender)
+
+
+# Age Demographics 
+
+
+# Top Spenders 
+
+
+# Most Popular Items 
+
+
+# Most Profitable Items 
+
 
 
 
