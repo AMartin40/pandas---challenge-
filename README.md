@@ -25,6 +25,9 @@ Like many others in its genre, the game is free-to-play, but players are encoura
 
 # Data Frame 
 
+![DataFrame Screenshot](https://user-images.githubusercontent.com/60369894/88494019-1c8e3000-cf82-11ea-92b1-f3984bf579e6.PNG)
+
+# Player Count 
 
 
 
